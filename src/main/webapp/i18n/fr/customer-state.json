@@ -1,0 +1,11 @@
+{
+  "bankApp": {
+    "State": {
+      "null": "",
+      "Virginia": "Virginia",
+      "Maryland": "Maryland",
+      "Delaware": "Delaware",
+      "DC": "DC"
+    }
+  }
+}
